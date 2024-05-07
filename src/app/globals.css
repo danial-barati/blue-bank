@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .shadow-custom {
+    --shadow: 0 6px 13px 0 rgba(0, 0, 0, 0.06);
+    box-shadow: var(--shadow);
+  }
+  .shadow-custom2 {
+    --shadow2: 0 0 12px 0 rgb(221 221 221);
+    box-shadow: var(--shadow2);
+  }
+}
+
+.swiper-pagination-bullet {
+  width: 40px !important;
+  border-radius: unset !important;
+  border-radius: 2px !important;
+  height: 5px !important;
+  transition: 200ms;
+}
