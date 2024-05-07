@@ -4,7 +4,7 @@
 
 ![view](https://github.com/danial-barati/blue-bank/assets/104683176/d8c9cd41-46af-440d-8d6c-f9936e961d43)
 
-![view](https://github.com/danial-barati/bershka/assets/104683176/dcedd1ff-140f-4a68-b8da-39e1a72f2eda)
+![view](https://github.com/danial-barati/blue-bank/assets/104683176/1a04e347-c02f-4925-9512-b567d797fd83)
 
 - 🔗 [demo](https://blue-bank-seven.vercel.app/)
 
