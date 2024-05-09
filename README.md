@@ -12,7 +12,7 @@
 
 - 📆 Created - 2024-5-4
 
-- ✔️ Technologies Used - Next js , react , formik , MUI , tailwind , api , mockapi
+- ✔️ Technologies Used - Next js , swiper , MUI , tailwind , api , mockapi
 
 - 💥 Role - Frontend
 
